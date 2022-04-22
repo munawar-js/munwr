@@ -9,7 +9,7 @@ I'm a self-taught Frontend engineer. I have built websites and products for B2B 
 
 My core strength is creating a details-oriented proof of concept from scratch. I am good at breaking product requirements into smaller and actionable tasks.
 
-I ensure my code is at par with industry best practices, so any developer can pick my work without needing me to guide them. I  have keen interest in web development, website & web app performance, UI/UX design, software engineering best practices, and saas products.
+I ensure my code is at par with industry best practices, so any developer can pick my work without needing me to guide them. I have a keen interest in web development, website & web app performance, UI/UX design, software engineering best practices, and saas products.
 
 I take pride in delivering pixel-perfect websites & web apps that work irrespective of screen size, platform, browser, and device without compromising usability and accessibility.
 
