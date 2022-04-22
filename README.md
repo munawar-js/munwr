@@ -5,14 +5,14 @@
 
 ## Summary
 
-I'm a self-taught Frontend Engineer, have built websites and products for B2B and B2C companies. In the past, I have worked with Freshworks and been part of Freshdesk, Freshchat, and Freshcaller.
+I'm a self-taught Frontend engineer. I have built websites and products for B2B and B2C companies. In the past, I have worked with Freshworks and been part of Freshdesk, Freshchat, and Freshcaller.
 
-My core strength is creating a details-oriented proof of concept from scratch using my Frontend skills. I am good at breaking product requirements into smaller and actionable tasks.
+My core strength is creating a details-oriented proof of concept from scratch. I am good at breaking product requirements into smaller and actionable tasks.
 
-I ensure my code is at par with industry best practices, so any developer can pick my work without needing me to guide them. I have a keen interest for web development, website & web app performance, ui/ux design, software engineering best practices and saas products.
+I ensure my code is at par with industry best practices, so any developer can pick my work without needing me to guide them. I  have keen interest in web development, website & web app performance, UI/UX design, software engineering best practices, and saas products.
 
 I take pride in delivering pixel-perfect websites & web apps that work irrespective of screen size, platform, browser, and device without compromising usability and accessibility.
 
-I also try my best to contribute to open-source projects and share free Jamstack and mobile templates on [Stackrole.com](https://stackrole.com).
+I also contribute to open-source projects and share free Jamstack and mobile templates.
 
-Want to launch your own blog without spending a dollar on hosting? Check out my open-source project [Gatsby Starter Foundation](https://github.com/stackrole/gatsby-starter-foundation)
+Want to launch your website without spending a dollar on hosting? Check out [Stackrole.com](https://stackrole.com)
