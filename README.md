@@ -1,6 +1,7 @@
-👋 Hi, I’m **M Munawar Ahmed**
+Hi , This is **Munawar Ahmed**
 
-- 💞️ I’m looking to collaborate on Stackrole.com and build open-source jamstack templates
+- 🇮🇳 Based in Nellore, India. So, i can enjoy sunny beaches.
+- 💞️ I’m looking to collaborate on [Stackrole.com](https://stackrole.com) and build open-source jamstack templates.
 - 📫 How to reach me hi@munwr.com or DM on twitter [@MunawarJS](https://twitter.com/MunawarJS)
 
 ## Summary
